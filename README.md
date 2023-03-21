@@ -64,6 +64,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" width="64" alt="yarn logo"  />
 </div>
 
+<span style="white-space: pre-line"></span>
+
 ###
 
 <div align="center">
@@ -73,6 +75,8 @@
 </div>
 
 ###
+
+<span style="white-space: pre-line"></span>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" width="52" alt="atom logo"  />
