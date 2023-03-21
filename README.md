@@ -8,7 +8,6 @@
 <div align = "center">
   <img src="https://raw.githubusercontent.com/NiccoloBalestrieri/NiccoloBalestrieri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/NiccoloBalestrieri/count.svg?"  />
@@ -16,21 +15,31 @@
 
 
 <br>
+<div align = "center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
+</div>
 
 - :books: Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
 - :computer: I’m working...
 - 📫 How to reach me: ```niccolo.balestrieri@mail.polimi.it``` - ```niccolobalestrieri2@gmail.com```
 - :link: Some of useful links
   - :eyes: [LinkedIn profile](www.linkedin.com/in/niccolò-balestrieri-91a386252)
-  - :works: [Website](https://www.trilloparrucchieri.it/)
-
-###
+  - 👷 My work: [Trillo Parrucchieri](https://www.trilloparrucchieri.it/)
+  
+<div align = "center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NiccoloBalestrieri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="155" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=NiccoloBalestrieri&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="155" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NiccoloBalestrieri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="155" alt="languages graph"  />
 </div>
+
+<div align = "center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
+</div>
+
 
 ###
 
@@ -77,8 +86,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/AahOYxkCcyYne/giphy.gif"  />
+<div align = "center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
 </div>
 
 ###
