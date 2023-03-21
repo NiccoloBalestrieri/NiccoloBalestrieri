@@ -1,6 +1,8 @@
 <h3 align="center">Hi 👋! My name is Niccolò and I'm an Engineering from Parma.</h3>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png)
+<div align = "center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
+</div>
 
 <br clear="both">
 <div align = "center">
