@@ -12,6 +12,16 @@
   <img src="https://profile-counter.glitch.me/NiccoloBalestrieri/count.svg?"  />
 </div>
 
+
+<br>
+
+- :books: Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
+- :computer: I’m working...
+- 📫 How to reach me: ```niccolo.balestrieri@mail.polimi.it``` - ```niccolobalestrieri2@gmail.com```
+- :link: Some of useful links
+  - :eyes: [LinkedIn profile](www.linkedin.com/in/niccolò-balestrieri-91a386252)
+  - :works: [Website](https://www.trilloparrucchieri.it/)
+
 ###
 
 <div align="center">
@@ -82,15 +92,3 @@
 </div>
 
 ###
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
