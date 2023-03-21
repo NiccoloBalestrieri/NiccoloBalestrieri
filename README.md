@@ -13,12 +13,6 @@
   <img src="https://profile-counter.glitch.me/NiccoloBalestrieri/count.svg?"  />
 </div>
 
-
-<br>
-<div align = "center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
-</div>
-
 - :books: Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
 - :computer: I’m working...
 - 📫 How to reach me: ```niccolo.balestrieri@mail.polimi.it``` - ```niccolobalestrieri2@gmail.com```
