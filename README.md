@@ -13,6 +13,8 @@
   <img src="https://profile-counter.glitch.me/NiccoloBalestrieri/count.svg?"  />
 </div>
 
+<span style="white-space: pre-line"></span>
+
 - :books: Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
 - :computer: I’m working...
 - 📫 How to reach me: ```niccolo.balestrieri@mail.polimi.it``` - ```niccolobalestrieri2@gmail.com```
