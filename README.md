@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Niccolò and I'm an Engineering from Parma.</h3>
+<h3 align="center">Hi 👋! My name is Niccolò and I'm an Engineer from Parma.</h3>
 
 <div align = "center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
