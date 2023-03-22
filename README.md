@@ -20,7 +20,7 @@
 - 📫 How to reach me: ```niccolo.balestrieri@mail.polimi.it``` - ```niccolobalestrieri2@gmail.com```
 - :link: Some of useful links
   - :eyes: [LinkedIn profile](https://www.linkedin.com/in/niccolò-balestrieri-91a386252/)
-  - 👷 My work: [Trillo Parrucchieri](https://www.trilloparrucchieri.it/)
+  - 👷 My work: [trillo.it](https://www.trilloparrucchieri.it/)
   
 <div align = "center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
