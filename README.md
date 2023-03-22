@@ -43,6 +43,8 @@
 
 ###
 
+<h3> 🖥️: My skills and interests</h3>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="64" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" width="64" alt="typescript logo"  />
@@ -95,6 +97,8 @@
 </div>
 
 ###
+
+<h3> 🦊: Social</h3>
 
 <div align="center">
   <a href="https://www.instagram.com/niccolo.balestrieri/" target="_blank">
