@@ -43,8 +43,8 @@
 
 ###
 
-<h3> 🖥️: My skills and interests</h3>
-
+<h3> 🖥️ My skills and interests</h3>
+<span style="white-space: pre-line"></span>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="64" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="50" width="64" alt="typescript logo"  />
@@ -98,8 +98,8 @@
 
 ###
 
-<h3> 🦊: Social</h3>
-
+<h3> 🦊 Social: </h3>
+<span style="white-space: pre-line"></span>
 <div align="center">
   <a href="https://www.instagram.com/niccolo.balestrieri/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
