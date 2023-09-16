@@ -15,7 +15,7 @@
 
 <span style="white-space: pre-line"></span>
 
-- :books: Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
+- :books:Artificial Intelligence student @[PoliMi](https://www.polimi.it/)
 - :computer: I’m working...
 - 📫 How to reach me: ```niccolo.balestrieri@mail.polimi.it``` - ```niccolobalestrieri2@gmail.com```
 - :link: Some of useful links
