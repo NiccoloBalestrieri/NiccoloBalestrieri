@@ -10,8 +10,9 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/NiccoloBalestrieri/count.svg?"  />
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NiccoloBalestrieri)
 </div>
+
 
 <span style="white-space: pre-line"></span>
 
