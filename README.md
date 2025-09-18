@@ -16,8 +16,8 @@
 <span style="white-space: pre-line"></span>
 
 - :books:MSc in Artificial Intelligence @[PoliMi](https://www.polimi.it/)
-- :computer: I’m working...
-- 📫 How to reach me: ```niccolo.balestrieri@mail.polimi.it``` - ```niccolobalestrieri2@gmail.com```
+- :computer: AI & Innovation Specialist @[Davines Group](https://it.davines.com/)
+- 📫 How to reach me: ```niccolobalestrieri2@gmail.com```
 - :link: Some of useful links
   - :eyes: [LinkedIn profile](https://www.linkedin.com/in/niccolò-balestrieri-91a386252/)
   - 👷 My work: [trillo.it](https://www.trilloparrucchieri.it/)
