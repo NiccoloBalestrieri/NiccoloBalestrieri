@@ -39,14 +39,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
 </div>
 
-###
-
-<div align = "center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
-</div>
-
-###
-
 <h2> 🦊 Social: </h2>
 <span style="white-space: pre-line"></span>
 <span style="white-space: pre-line"></span>
