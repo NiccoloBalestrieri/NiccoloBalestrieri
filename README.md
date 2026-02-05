@@ -29,16 +29,7 @@
 
 <span style="white-space: pre-line"></span>
 
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NiccoloBalestrieri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="155" alt="languages graph"  />
-</div>
-
-<span style="white-space: pre-line"></span>
-
-<div align = "center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="Snake animation" />
-</div>
 
 <h2> 🦊 Social: </h2>
 <span style="white-space: pre-line"></span>
