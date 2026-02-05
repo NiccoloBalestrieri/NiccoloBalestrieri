@@ -17,7 +17,7 @@
 <span style="white-space: pre-line"></span>
 
 - :books:MSc in Computer Science and Engineering - Artificial Intelligence path @[PoliMi](https://www.polimi.it/)
-- :computer: R&D Computer Vsion Software Engineer @[Custom Group]([https://www.custom.biz/it_IT/home])
+- :computer: R&D Computer Vsion Software Engineer @[Custom Group](https://www.custom.biz/it_IT/home)
 - 📫 How to reach me: ```niccolobalestrieri2@gmail.com```
 - :link: Some of useful links
   - :eyes: [LinkedIn profile](https://www.linkedin.com/in/niccolò-balestrieri-91a386252/)
